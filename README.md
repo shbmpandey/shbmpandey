@@ -3,13 +3,12 @@
 
 
 - 🔭 I’m currently a student
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning reactJs
 - 💬 Ask me about computer science
 - 📫 How to reach me: instagram  - @_shubhmpandey
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: i watch a youtube alot and instagram
 
-![image](https://user-images.githubusercontent.com/55488378/172543947-4f3d116c-2902-411d-9b67-ad2052364788.png)
-![image](https://user-images.githubusercontent.com/55488378/172544090-ae6960e7-75f4-4436-8269-cc2572b75292.png)
+![image](https://user-images.githubusercontent.com/55488378/174494429-8b81f920-2970-406e-8461-b20624114f49.png)
 
 

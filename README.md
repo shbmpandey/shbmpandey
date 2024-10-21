@@ -1,14 +1,5 @@
-### Hi this is shubham pandey 👋
+👋 Hi, I'm Shubham Pandey!
 
+Java Developer | Full Stack Developer | Software Engineer
 
-
-- 🔭 I’m currently a student
-- 🌱 I’m currently learning reactJs
-- 💬 Ask me about computer science
-- 📫 How to reach me: instagram  - @_shubhmpandey
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: i watch a youtube alot and instagram
-
-![image](https://user-images.githubusercontent.com/55488378/174494429-8b81f920-2970-406e-8461-b20624114f49.png)
-
-
+I'm a passionate software engineer with expertise in Java, Spring Boot, Hibernate, Docker, Kubernetes, and more. I love building scalable, efficient backend systems and have worked on various migration projects and RESTful API development. I'm always exploring new technologies, currently focusing on Data Science and AI.
